@@ -1,0 +1,21 @@
+.filterWrapper {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.filterLabel {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.filterInput {
+  width: 220px;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 2px solid #7c7c7c;
+  border-radius: 4px;
+}
